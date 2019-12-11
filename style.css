@@ -1,0 +1,33 @@
+
+#top-wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+
+#controls-wrapper input{
+	margin-left: 5px;
+}
+
+.field-row{
+	display: flex;
+}
+
+.element{
+	display: inline-block;
+	margin: 0 10px;
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	font-size: 25px;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+
+#answers-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.answer-elem{
+	margin-top: 10px;
+}
