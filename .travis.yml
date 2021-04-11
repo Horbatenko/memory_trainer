@@ -8,3 +8,4 @@ deploy:
   app: "memory-trainer"
   env: "Memorytrainer-env"
   bucket: "elasticbeanstalk-us-east-2-126705127925"
+  bucket_path: "memory_trainer"
