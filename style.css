@@ -4,6 +4,10 @@
 	justify-content: space-between;
 }
 
+#field-wrapper{
+	flex-grow: 2;
+}
+
 #controls-wrapper input{
 	margin-left: 5px;
 }
