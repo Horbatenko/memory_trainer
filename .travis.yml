@@ -7,4 +7,4 @@ deploy:
   region: "us-east-2"
   app: "memory-trainer"
   env: "Memorytrainer-env"
-  bucket_name: "elasticbeanstalk-us-east-2-126705127925"
+  bucket: "elasticbeanstalk-us-east-2-126705127925"
